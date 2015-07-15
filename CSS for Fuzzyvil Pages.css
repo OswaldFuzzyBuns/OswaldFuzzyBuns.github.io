@@ -1,0 +1,23 @@
+#left{
+  padding:15px;
+  margin:0px 5px 5px 10px;
+  width:150px;
+  float:left;
+}
+
+#right{
+  padding:15px;
+  margin:0px 5px 5px 10px;
+  width:150px;
+  float:right;
+}
+
+#middle{
+  width:150px;
+  margin:0px 10px 10px 200px;
+}
+
+em{
+  font-weight:bold;
+  text-transform:uppercase;
+}
